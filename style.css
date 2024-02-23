@@ -1,0 +1,222 @@
+body{
+    font-family: 'Open Sans', sans-serif;
+   background-image: url(./img/fondo.jpg)
+
+}
+
+h1{ 
+    font-size: 50px;
+	    text-align: center;
+      height:90vh;
+      line-height: 90vh;
+	    color: #fcedd8;
+	   	font-family: 'Niconne', cursive;
+	    font-weight: 700;
+      text-shadow: 5px 5px 0px #eb452b, 
+                  10px 10px 0px #efa032, 
+                  15px 15px 0px #46b59b, 
+                  20px 20px 0px #017e7f, 
+                  25px 25px 0px #052939, 
+                  30px 30px 0px #c11a2b, 
+                  35px 35px 0px #c11a2b, 
+                  40px 40px 0px #c11a2b, 
+                  45px 45px 0px #c11a2b;
+      margin-top: -175px;
+      font-family: 'Open Sans', sans-serif;
+      color: black;
+      
+      
+    
+}
+
+ul{
+    font-size: 18px;
+    margin-left: 55px;
+}
+
+
+.cana{
+
+    margin-top: -60px;
+    margin-left: 128px;
+    font-size: 36px;
+
+    
+}
+
+.sub{
+    font-size: 30px;
+    margin-left: 128px;
+    margin-top: 60px;
+}
+
+.textoCa{
+    margin-top: 40px;
+    margin-left: 69px;
+    font-size: 24px;
+}
+.imagCa{
+  
+   height: 380x;
+   width: 380px;
+   margin-top: -311px;
+   margin-left: 75px;
+}
+
+.videoCa{
+    margin-left: 669px; 
+   
+}
+
+.face{
+    margin-top: 120px;
+    margin-left: 128px;
+    font-size: 36px;
+
+    
+}
+.textofa{
+    margin-left: 669px;
+    margin-left: 69px;
+    font-size: 24px;
+}
+
+.imagFa{
+   
+    height: 380x;
+    width: 380px;
+    margin-top: -355px;
+    margin-left: 35px;
+ }
+
+ .videoFa{
+    margin-left: 669px; 
+}
+
+.Rj45{
+    margin-top: 120px;
+    margin-left: 128px;
+    font-size: 36px;
+
+    
+}
+.textoRj{
+    margin-left: 669px;
+    margin-left: 69px;
+    font-size: 24px;
+}
+
+
+
+ .videoRj{
+    
+    margin-left: 670px; 
+}
+
+.rj{
+    margin-top: -390px;
+}
+
+.pacth{
+
+    margin-top: -60px;
+    margin-left: 128px;
+    font-size: 36px;
+
+    
+}
+
+.textoPa{
+    margin-top: 40px;
+    margin-left: 69px;
+    font-size: 24px;
+}
+.imaPa{
+  
+   height: 380x;
+   width: 380px;
+   margin-top: -311px;
+   margin-left: 75px;
+}
+
+.videoPa{
+    margin-left: 669px; 
+   
+}
+
+.pat{
+    margin-top: 120px;
+    margin-left: 128px;
+    font-size: 36px;
+
+    
+}
+.textoPat{
+    margin-left: 669px;
+    margin-left: 69px;
+    font-size: 24px;
+}
+
+.imagPat{
+   
+    height: 380x;
+    width: 380px;
+    margin-top: -700px;
+    margin-left: 35px;
+ }
+
+ .videoPat{
+    margin-left: 669px; 
+}
+
+.imagCab{
+    margin-left: 752px;
+    height: 300px;
+    width: 300px;
+}
+
+.bot{
+    margin-top: 60px;
+    margin-left: 505px;
+}
+
+.orga{
+    margin-top: 150px;
+}
+
+.tren{
+    margin-top: 160px;
+}
+
+.sis{
+    margin-top: 78px;
+}
+
+
+.myButton{
+	box-shadow: 0px 0px 0px 2px #9fb4f2;
+	background:linear-gradient(to bottom, #7892c2 5%, #476e9e 100%);
+	background-color:#7892c2;
+	border-radius:10px;
+	border:1px solid #4e6096;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family:Arial;
+	font-size:19px;
+	padding:12px 37px;
+	text-decoration:none;
+	text-shadow:0px 1px 0px #283966;
+   
+    
+ 
+    
+}
+.myButton:hover {
+	background:linear-gradient(to bottom, #476e9e 5%, #7892c2 100%);
+	background-color:#476e9e;
+}
+.myButton:active {
+	position:relative;
+	top:1px;
+}
